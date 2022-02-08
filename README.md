@@ -1,2 +1,2 @@
 # Titanic-Passengers-Survival
-Titanic Passengers Survival
+The projects' goal was to build a machine learning model that accurately predicts the people who survived in titanic. In this project, I used classification models to predict the survivors. By understanding the attributes we removed some unnecessary ones and kept only the useful ones, we did some visualisations to see how the survivor's rate changes are affected and to ensure that there are no outliers. At last, a confusion matrix showed that we have a solid 91% accuracy.
